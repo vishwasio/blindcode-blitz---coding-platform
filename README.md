@@ -7,7 +7,6 @@ A "blind coding" platform developed for an event at NIT Trichy.
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/release-v1.0-yellow.svg)](https://github.com/yourusername/yourproject/releases/tag/v1.0)
 
 ## 📌 Description
 
@@ -85,10 +84,10 @@ This system successfully served **200+ active users** during the competition, ba
 
 ## 📄 License
 
-[This project is licensed under the MIT License.](https://github.com/awkward-student/blindcode-blitz---coding-platform/blob/master/LICENSE)
+[This project is licensed under the MIT License.](https://github.com/vishwasio/blindcode-blitz---coding-platform/blob/master/LICENSE)
 
 ## 🌐 Contact
 
-[GitHub: /awkward-student](https://github.com/awkward-student)
+[GitHub: /vishwasio](https://github.com/vishwasio)
 
 ⭐ If you like this project, please give it a star!
